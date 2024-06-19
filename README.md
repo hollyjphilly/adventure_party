@@ -1,4 +1,4 @@
-Adventure Party
+# Adventure Party
 
 ## iOS Emulator Setup
 1. Open up the Mac App Store, search for Xcode, and click install (or update if you have it already).
